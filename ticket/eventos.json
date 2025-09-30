@@ -1,0 +1,22 @@
+[
+  {
+    "evento": "Concierto de rock",
+    "artista": "Los Redonditos de Ricota (tributo)",
+    "fecha": "2024-07-10",
+    "horario": "21:00",
+    "lugar": "Teatro Gran Rex",
+    "ciudad": "Buenos Aires",
+    "precio": 10000,
+    "moneda": "ARS"
+  },
+  {
+    "evento": "Festival Pop",
+    "artista": "Tini",
+    "fecha": "2024-08-15",
+    "horario": "20:00",
+    "lugar": "Movistar Arena",
+    "ciudad": "Buenos Aires",
+    "precio": 12000,
+    "moneda": "ARS"
+  }
+]
